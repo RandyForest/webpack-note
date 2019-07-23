@@ -1,4 +1,4 @@
-let Path = require('path');
+const Path = require('path');
 
 module.exports = {
     entry: './src/index.js',
